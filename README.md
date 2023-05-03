@@ -116,6 +116,7 @@
 | [마이뮤직테이스트 (MyMusicTaste)](#마이뮤직테이스트MyMusicTaste) | O | O | [홈페이지](https://www.mymusictaste.com/) / [채용 공고](https://team.mymusictaste.com/culture) / [기술블로그](https://mymusictaste.github.io/) |
 | Presto Labs | O (완전 자율 출퇴근) | O (전세계 어디서나 완전 원격 근무) | [채용 공고 (iOS)](https://presto-career.notion.site/iOS-Software-Engineer-25011b7a929e444da9fbd6aca88dfb05) |
 | 0x&(제로엑스엔드) | O (완전 자율 출퇴근 / 무제한 휴가) | O (전세계 어디서나 완전 원격 근무) | [홈페이지](https://0xand.com) / [채용공고](https://www.wanted.co.kr/company/35709) |
+| [VCNC](#VCNC) | O | O | [타다 팀 채용페이지](https://vcnccorp.notion.site/TADA-NEXT-MOMENT-190da24dc3b342f8b6cd9a6408b48cda) |
 
 ## 기타 복지
 
@@ -1589,3 +1590,43 @@ _**자란다가 궁금하다면?**_
   - [팀사이트](https://team.mymusictaste.com/)
   - [채용 공고](https://team.mymusictaste.com/culture)
   - [기술 블로그](https://mymusictaste.github.io/)
+
+### VCNC
+
+> 💡 타다팀에는 스스로 책임감 있게 행동할 수 있는 동료들이 모인 팀인 만큼,  
+> 통제와 프로세스를 최소화하는 제도를 운영하고 있습니다.    
+> 
+> 필요성에 대한 공감대만 충분하다면 ∞ 지원이 가능합니다.
+
+</aside>
+
+- ⏳ **Flexible • 신뢰를 바탕으로 한 유연한 시간 사용**
+
+    - 무제한 연차 사용
+    - 개인의 업무 스타일에 맞는 자율적 유연 근무
+    - 자율적 재택 근무
+
+- 🌱 **Growth • 성장 지원**
+
+    - 직무 관련 자기 개발 비용 지원
+    - 국내/외 컨퍼런스 참가 및 교육비 지원
+    - 도서 구입 지원
+
+- 🧿 **Focus • 보다 집중할 수 있는 환경**
+
+    - 점심 식대 지원 (재택 근무 포함)
+    - 각 포지션에 적합한 최신형 장비 지급
+    - 각종 사무 용품 지원
+    - 배부름은 면역력 증진의 첫 단추인 만큼, 풍족하게 준비된 간식 및 음료 ****
+
+- 🎁 **Care • 안정적인 생활 지원**
+
+    - 직장 어린이집 ‘모두의 숲’ 운영
+    - 프리미엄 건강검진 지원 및 가족 검진 할인
+    - 경조사 지원
+
+- 🚗 **TADA · 모빌리티 회사만의 베네핏**
+
+    - 타다(TADA) 전 라인업 이용 시 상시 할인 제공
+    - 쏘카(SOCAR) 이용 시 상시 할인 제공
+    - 어쩔 수 없이 야근했을 때에는 타다(TADA)를 타고 귀가하세요
